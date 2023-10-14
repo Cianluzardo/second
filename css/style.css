@@ -116,6 +116,7 @@ footer {
 
 fieldset {
     text-align: left;
+    font-family: cursive;
     background-color: rgb(191, 134, 134);
     box-sizing: border-box;
     width: 100%;
