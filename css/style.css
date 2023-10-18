@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 
@@ -113,6 +114,7 @@ footer {
     padding: 5px;
 
 }
+/* formulario */
 
 fieldset {
     text-align: left;
@@ -138,8 +140,10 @@ fieldset {
 .sub {
     font-family: cursive;
     text-decoration: underline;
-
+    
 }
+
+
 
 .logosredes {
     text-align: right;
