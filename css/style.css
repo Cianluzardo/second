@@ -51,6 +51,7 @@ h5 {
     font-family: cursive;
     text-align: right;
 }
+
 h6 {
     font-family: cursive;
     box-shadow: 25px -21px 55px -13px rgba(0, 0, 0, 0.68) inset;
@@ -61,7 +62,7 @@ h6 {
 body {
     background-image: url(https://scontent.faep34-1.fna.fbcdn.net/v/t39.30808-6/300384712_513245957467997_2612880900177317638_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tMnQ7Af7iIEAX-Ke4CC&_nc_ht=scontent.faep34-1.fna&oh=00_AfCgFkMTqbtcNc7NpWbJ0BOOEGzACMtvEZXlpNRaO8ZUNQ&oe=6536E013);
     text-align: center;
-    
+
 
 }
 
@@ -71,17 +72,17 @@ body {
     box-shadow: 25px -21px 5px -13px rgba(0, 0, 0, 0.68) inset;
     -webkit-box-shadow: 25px -21px 55px -13px rgba(238, 223, 223, 0.68) inset;
     -moz-box-shadow: 25px -21px 55px -13px rgba(225, 209, 209, 0.68) inset;
-    
-    
+
+
 }
 
 .menu a {
     float: left;
     display: block;
     color: rgb(240, 236, 231);
-    padding: 4px 14px;
+    padding: 10px 7px;
     font-family: cursive;
-    
+
 }
 
 .menu:hover {
